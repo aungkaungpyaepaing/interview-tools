@@ -1,10 +1,7 @@
 # 🧠 AI Interview Tool
 
 An interactive AI-powered mock interview app built with **Streamlit**, **OpenAI (GPT-4o)**, and **LangChain-style memory**, designed to simulate an HR interview experience. Users can enter personal details, and the chatbot will conduct a tailored 5-question interview, followed by smart feedback and a performance score.
-
-[🌐 Live Demo on Streamlit Cloud]([https://interview-tools.streamlit.app](https://aung-interview-tools.streamlit.app/))  
-
----
+[🌐 Live Demo on Streamlit Cloud](https://aung-interview-tools.streamlit.app/)
 
 ## 📌 Features
 
