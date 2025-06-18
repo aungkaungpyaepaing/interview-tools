@@ -1,5 +1,8 @@
 # 🧠 AI Interview Tool
 
+
+<img src="https://github.com/user-attachments/assets/0d0fc5d0-f46b-4c08-b2ae-4f3df2821cf8" alt="Aung's Avatar" width="100" height="100"/>
+
 An interactive AI-powered mock interview app built with **Streamlit**, **OpenAI (GPT-4o)**, and **LangChain-style memory**, designed to simulate an HR interview experience. Users can enter personal details, and the chatbot will conduct a tailored 5-question interview, followed by smart feedback and a performance score.
 [🌐 Live Demo on Streamlit Cloud](https://aung-interview-tools.streamlit.app/)
 
